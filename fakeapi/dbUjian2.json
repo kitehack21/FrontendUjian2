@@ -1,0 +1,211 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Baron",
+      "email": "B@ron.com",
+      "password": "test123"
+    },
+    {
+      "id": 2,
+      "username": "Sakura",
+      "email": "S@kura.com",
+      "password": "pd48"
+    }
+  ],
+  "schedule": [
+    {
+      "id": 1,
+      "studio": 1,
+      "time": "Morning",
+      "price": 25000,
+      "seats": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": 2,
+      "studio": 1,
+      "time": "Evening",
+      "price": 35000,
+      "seats": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": 3,
+      "studio": 2,
+      "time": "Morning",
+      "price": 25000,
+      "seats": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": 4,
+      "studio": 2,
+      "time": "Evening",
+      "price": 35000,
+      "seats": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": 5,
+      "studio": 3,
+      "time": "Morning",
+      "price": 25000,
+      "seats": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": 6,
+      "studio": 3,
+      "time": "Evening",
+      "price": 35000,
+      "seats": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    }
+  ],
+  "movies": [
+    {
+      "id": 1,
+      "title": "Malificent",
+      "image": "https://i.pinimg.com/originals/66/24/96/6624960f0062bd8b8845037c6776277c.jpg",
+      "imdb": "https://www.imdb.com/title/tt1587310/",
+      "description": "A vengeful fairy is driven to curse an infant princess, only to discover that the child may be the one person who can restore peace to their troubled land."
+    },
+    {
+      "id": 2,
+      "title": "The Hobbit",
+      "image": "http://1.bp.blogspot.com/-c3cpoWrqMhA/Uk20JfkoQxI/AAAAAAAAVnw/ryPryLiPEqk/s1600/HDOS_Bilbo_INTL.jpg",
+      "imdb": "https://www.imdb.com/title/tt0903624/",
+      "description": "A reluctant Hobbit, Bilbo Baggins, sets out to the Lonely Mountain with a spirited group of dwarves to reclaim their mountain home, and the gold within it from the dragon Smaug."
+    },
+    {
+      "id": 3,
+      "title": "Doctor Strange",
+      "image": "https://www.technobuffalo.com/wp-content/uploads/2016/11/doctor-strange-1.jpg",
+      "imdb": "https://www.imdb.com/title/tt1211837/",
+      "description": "While on a journey of physical and spiritual healing, a brilliant neurosurgeon is drawn into the world of the mystic arts."
+    }
+  ],
+  "transactions": [
+  ]
+}
